@@ -1,1 +1,2 @@
-# 直连 示例 DOMAIN-SUFFIX,outlook.live.com
+# 代理列表
+DOMAIN-SUFFIX,ssp-cloud.net
